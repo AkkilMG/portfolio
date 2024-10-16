@@ -1,0 +1,35 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "file-saver": "^2.0.5",
+    "jquery": "^3.7.1",
+    "jquery.counterup": "^2.1.0",
+    "modernizr": "^3.13.1",
+    "next": "14.2.13",
+    "react": "^18",
+    "react-dom": "^18",
+    "swiper": "^11.1.14",
+    "waypoints": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.7",
+    "@types/file-saver": "^2.0.7",
+    "@types/jquery": "^3.5.31",
+    "@types/node": "^20.16.11",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18",
+    "@types/swiper": "^5.4.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.6.3"
+  }
+}
